@@ -52,3 +52,5 @@ const quizQuestions = [
 },
 // Add more questions here...
 ];
+## Author
+Zahoor
