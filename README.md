@@ -55,7 +55,7 @@ const quizQuestions = [
 ```
 
 ## Author
-[Zahoor](https://www.linkedin.com/in/zahoor-ahmad-shergujry-669864213/)https://www.linkedin.com/in/zahoor-ahmad-shergujry-669864213/)
+[Zahoor] (https://www.linkedin.com/in/zahoor-ahmad-shergujry-669864213/)https://www.linkedin.com/in/zahoor-ahmad-shergujry-669864213/)
 
 
 
